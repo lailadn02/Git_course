@@ -1,0 +1,1 @@
+git pull origin : pull of remote + merge with my files in local repo
